@@ -1,15 +1,11 @@
 # 2017CMPT-275-Group11
 ## Team Invincible
 
-https://youtu.be/bqnmqqutMf4
+Link to Video: https://youtu.be/bqnmqqutMf4
 
 ### Members:
 
-Mandy
-Gary Chung
-Zavier Aguila
-John Ko 
-Ryan Kiew 
+Mandy Xiao, Gary Chung, Zavier Aguila, John Ko, Ryan Kiew 
 
 
 
